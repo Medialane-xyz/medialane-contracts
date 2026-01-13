@@ -1,2 +1,3 @@
-# Medialane-Contracts
-Cairo Smart Contracts @ Medialane. Powered on Starknet.
+# Medialane.xyz
+
+Open-source repository for Medialane Cairo Smart Contracts. Powered on Starknet.
